@@ -1,0 +1,2 @@
+- Official encore documentation: https://symfony.com/doc/current/frontend/encore/installation.html
+- Tutoial by Symfonycasts: https://symfonycasts.com/screencast/webpack-encore-legacy/encore-install
